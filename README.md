@@ -1,5 +1,5 @@
 - 👋 Moin ich bin @DexterBrings
-- 👀 und interessiere mich für Java
+- 👀 und interessiere mich für C#
 - 📫 How to reach me ...
 
 
